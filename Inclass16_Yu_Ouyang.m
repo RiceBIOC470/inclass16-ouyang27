@@ -1,4 +1,10 @@
 % Inclass16
+%GB comments
+1 90 You were close, but when defining your peaks for different t values, you need peak{1} and peak {2}. Please discuss with me if this is not clear. 
+2 0 No work provided
+3 75 This should really be looped for all possible matching cells between timeframes
+Overall: 55
+
 
 %The folder in this repository contains code implementing a Tracking
 %algorithm to match cells (or anything else) between successive frames. 
